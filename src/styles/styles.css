@@ -1,0 +1,18 @@
+.food {
+    color: aqua;
+}
+
+.category {
+    color: blue;
+}
+
+.ethnicity {
+    color: darkblue;
+}
+
+section {
+    display: flex;
+    background-color: plum;
+    flex-direction: column;
+    border: 1px solid purple;
+}

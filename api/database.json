@@ -29,12 +29,6 @@
       "name": "Tuscan Soup",
       "category": "vegetarian",
       "ethnicity": "italian"
-    },
-    {
-      "name": "california roll",
-      "category": "sushi",
-      "ethnicity": "japanese",
-      "id": 6
     }
   ]
 }
